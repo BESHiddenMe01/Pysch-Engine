@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLeft",
+			"loop": false,
+			"name": "Warden Left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDown",
+			"loop": false,
+			"name": "Warden Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUp",
+			"loop": false,
+			"name": "Warden Up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRight",
+			"loop": false,
+			"name": "Warden Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/warden",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "warden",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		55,
+		55
+	],
+	"camera_position": [
+		-150,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
